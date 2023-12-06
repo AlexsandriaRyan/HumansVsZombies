@@ -1,0 +1,13 @@
+# ninja log v5
+3	1099	7029642327205324	CMakeFiles/NewFiles.dir/src/City.cpp.obj	8b5e79b95a15f92
+1160	1236	7029642328550606	NewFiles.exe	f844ec31966b4bb5
+7	1141	7029642327635404	CMakeFiles/NewFiles.dir/src/Human.cpp.obj	161fce689d065861
+12	1160	7029642327825313	CMakeFiles/NewFiles.dir/src/Zombie.cpp.obj	650cc531092dfb12
+16	1085	7029642327070196	CMakeFiles/NewFiles.dir/src/Organism.cpp.obj	f1a44d0cb65ef03a
+9	1159	7029642327815339	CMakeFiles/NewFiles.dir/src/main.cpp.obj	56228482e0e055b7
+15	2836	7235347640816676	CMakeFiles/NewFiles.dir/src/Organism.cpp.obj	6f2473739728336
+5	2850	7235347640955603	CMakeFiles/NewFiles.dir/src/City.cpp.obj	9812b69e9620cfa
+1	2925	7235347641721214	CMakeFiles/NewFiles.dir/src/Human.cpp.obj	ca1bd1723e48d4a6
+21	2951	7235347641988687	CMakeFiles/NewFiles.dir/src/Zombie.cpp.obj	5ddeebf63d3872bb
+11	3012	7235347642608249	CMakeFiles/NewFiles.dir/src/main.cpp.obj	b25f98e8f53d7f89
+3012	3152	7235347643946733	NewFiles.exe	75d96f0c09750965

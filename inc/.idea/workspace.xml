@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9790ce4-dad5-400a-b7bb-ead9d5fd5db3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Assignment 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Assignment 1/Files/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameSpecs.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Content/Quiz Preps/Quiz #2 Prep - Language Basics.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Content/Quiz Preps/Quiz #2 Prep - Language Basics.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/.cmake/api/v1/reply/cache-v2-65790ee89a33371f9df1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-ff86f56dd66a3fae025d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/.cmake/api/v1/reply/index-2023-01-25T16-07-55-0554.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-4253d974cfbe3ad04921.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/Files.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/Files.dir/src/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/Files.dir/src/stringsIO.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/Files.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/Files.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Assignment 1/Files/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/inc/stringsIO.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Assignment 1/Files/inc/stringsIO.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Assignment 1/Files/src/stringsIO.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Assignment 1/Files/src/stringsIO.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.1" />
+  </component>
+  <component name="ProjectId" id="2OIvuJD64A7M5AoMWIynOCu1FUa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9790ce4-dad5-400a-b7bb-ead9d5fd5db3" name="Changes" comment="" />
+      <created>1681261132256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681261132256</updated>
+      <workItem from="1681261133991" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
